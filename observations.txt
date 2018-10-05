@@ -1,0 +1,3 @@
+most media outlets have negetive sentiment score on the observed date
+BBC is the most negetive sentiment on the observed date
+NYT had the only positive sentiment on the observed date
